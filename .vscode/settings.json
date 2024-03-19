@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\nitis\\OneDrive\\Desktop\\Project Res\\jCal.jar",
+        "c:\\Users\\nitis\\OneDrive\\Desktop\\Project Res\\mysql-connector-java-8.0.28.jar"
+    ]
+}
