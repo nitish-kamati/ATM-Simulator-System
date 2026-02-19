@@ -73,3 +73,42 @@ This project demonstrates backend logic handling, database connectivity, and GUI
 
 ## 📂 Project Structure
 
+
+---
+
+## 🎯 Key Learning Outcomes
+
+- GUI development using Java Swing
+- Database connectivity using JDBC
+- SQL query execution
+- Handling real-time transactions
+- Object-Oriented Programming concepts
+- Building complete end-to-end desktop applications
+
+---
+
+## 🏗️ Purpose of the Project
+
+This project was developed to simulate real-world banking operations and strengthen understanding of Java backend logic, database integration, and GUI development.
+
+---
+
+## 🖥️ How to Run
+
+1. Set up MySQL database
+2. Configure database credentials in `Conn.java`
+3. Compile and run the project
+4. Use the GUI to perform ATM operations
+
+---
+
+## 👨‍💻 Author
+
+**Nitish Kamati**  
+Computer Science Student | Java Developer
+
+---
+
+⭐ If you found this project useful, feel free to explore and give feedback!
+
+
